@@ -5,6 +5,8 @@
     flex-direction: row;
     justify-content: space-evenly;
     background-color: rgb(209, 207, 207);
+    font-family: Roboto, opens sans, Arial, Helvetica, sans-serif;
+    size: 1rem;
 }
 .bloc-gauche{
     flex: 2;
@@ -266,4 +268,13 @@
     padding-right: 20px;
     padding-left: 20px;
     color: #113f4c;
+}
+
+@media all and (max-width:1024px){
+    .page{
+        width: 100vw;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
 }
