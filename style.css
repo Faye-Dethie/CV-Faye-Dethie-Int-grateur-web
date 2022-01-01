@@ -14,7 +14,7 @@
     height: auto;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: stretch;
     background-color: rgb(241, 13, 13);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
