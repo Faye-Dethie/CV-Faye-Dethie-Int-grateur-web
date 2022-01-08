@@ -15,7 +15,11 @@
     display: flex;
     flex-direction: column;
     justify-content: stretch;
+<<<<<<< HEAD:CV/style.css
     background-color: rgb(241, 13, 13);
+=======
+    background-color: #078ec9;
+>>>>>>> 4aa6a6a3b7d2f6a1cadd735d0fd1f1f666f05f39:style.css
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .bloc-droite{
@@ -33,6 +37,7 @@
     height: auto;
     flex: 1;
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: start;
     background-color: #d7d7da;
@@ -285,5 +290,9 @@
         display: flex;
         flex-direction: column;
     }
+<<<<<<< HEAD:CV/style.css
    
 }
+=======
+}
+>>>>>>> 4aa6a6a3b7d2f6a1cadd735d0fd1f1f666f05f39:style.css
